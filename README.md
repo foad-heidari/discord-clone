@@ -1,3 +1,8 @@
+https://youtu.be/ZbX4Ok9YX94?t=32298
+
+https://www.codewithantonio.com/projects/discord
+https://github.com/AntonioErdeljac/next13-discord-clone
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
